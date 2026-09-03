@@ -27,14 +27,18 @@ education, internships, certifications, and projects.
 
 ```text
 Personal-portfolio/
+├── .github/
+│   └── workflows/
+│       └── static.yml
 ├── assets/
 ├── js/
 │   └── script.js
 ├── src/
-│   ├── index.html
 │   ├── input.css
 │   └── output.css
 ├── .gitignore
+├── README.md
+├── index.html
 ├── package.json
 └── package-lock.json
 
